@@ -1,2 +1,2 @@
 # goal-setter
-A goal achieving progress tracker API.
+A goal-achieving progress tracker API.
